@@ -2,7 +2,8 @@ Here is a list of to dos
 
 
 HomePage
-should display existing blog posts, nav links for homepage, dashboard, an login
+should display existing blog posts 
+AND nav links for homepage, dashboard, and login
 Any links in nav should prompt sign in or sign up
 
 Dashboard

@@ -84,6 +84,10 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 add walkthrough video link here
 
 
+### Heroku Link
+
+https://glacial-stream-50208.herokuapp.com
+
 ===============================
 
 ### My Profile Information
@@ -94,4 +98,4 @@ GitHub: CameronSickler LinkedIn: linkedin.com/in/cameron-sickler-a17764106
 
 ### Resources
  
-NPM MYSQL2 Sequelize Express
+NPM MYSQL2 Sequelize Express Heroku
