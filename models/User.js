@@ -2,7 +2,11 @@ const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 const bcrypt = require('bcrypt');
 
-class User extends Model { }
+class User extends Model {
+
+    //need to do a bcrypt pw check here
+    //see module for assistance
+}
 
 User.init(
     {
@@ -28,7 +32,8 @@ User.init(
         }
     },
     {
-        // hook here
+        // hook here need to use bcrypt as instructed in acceptance criteria
+        //see module for assistance
 
         sequelize,
         timestamps: false,
