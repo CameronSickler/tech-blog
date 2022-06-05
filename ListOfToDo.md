@@ -6,6 +6,7 @@ should display existing blog posts
 AND nav links for homepage, dashboard, and login
 Any links in nav should prompt sign in or sign up
 
+
 Dashboard
 should display my blog posts and option to create new blog post
 
