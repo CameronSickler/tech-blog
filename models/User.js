@@ -9,9 +9,9 @@ User.init(
         //id
         id: {
             type: DataTypes.INTEGER,
+            autoIncrement: true,
             allowNull: false,
-            primaryKey: true,
-            autoIncrement: true
+            primaryKey: true
         },
         //username
         username: {
