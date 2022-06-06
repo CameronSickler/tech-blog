@@ -65,18 +65,18 @@ router.get('/login', (req, res) => {
 });
 
 
-router.get('/signup', (req, res) => {
+// router.get('/signup', (req, res) => {
 
-    if (req.session.loggedIn) {
+//     if (req.session.loggedIn) {
 
-        res.redirect('/');
-        return;
+//         res.redirect('/');
+//         return;
 
-    }
+//     }
 
-    res.render('signup');
+//     res.render('signup');
 
-});
+// });
 
 
 router.get('/post/:id', (req, res) => {
