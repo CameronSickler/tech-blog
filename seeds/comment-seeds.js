@@ -8,7 +8,7 @@ const commentData = [{
 {
     comment_text: "Test comment for id 2",
     user_id: 1,
-    post_id: 1
+    post_id: 2
 }
 ]
 
